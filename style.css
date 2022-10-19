@@ -1,0 +1,15 @@
+.wrapper{
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+select,
+#num{
+  margin-bottom: 1rem;
+}
+
+#button{
+  width: 100px;
+  margin: 0 auto;
+}
